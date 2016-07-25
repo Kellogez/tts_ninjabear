@@ -11,7 +11,7 @@ class Bear < Fighter
 	end
 end
 
-# bear = Bear.new("Bert", 100, 12)
+# bear = Bear.new("Poo", 100, 12)
 # tyson = Fighter.new("Mike Tyson", 100, 10)
 # puts bear.attack(tyson)
 

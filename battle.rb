@@ -51,7 +51,7 @@ end
 
 
 
-bear = Bear.new("Yogi", 100, 20)
+bear = Bear.new("Poo", 100, 20)
 ninja = Ninja.new("Chucky", 100, 15)
 battle = Battle.new(bear, ninja)
 
